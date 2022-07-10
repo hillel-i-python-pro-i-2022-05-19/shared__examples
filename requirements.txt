@@ -1,0 +1,13 @@
+pytest==7.1.2
+pytest-benchmark==3.4.1
+
+# [code_style]-[BEGIN]
+# Pre-commit hook.
+pre-commit==2.19.0
+# Upgrade syntax.
+pyupgrade==2.34.0
+# Formatter. Apply codestyle.
+black==22.6.0
+# Static analysis
+prospector[with_everything]==1.7.7
+# [code_style]-[END]
