@@ -1,4 +1,3 @@
-# noqa: B101
 import pytest
 from pytest_benchmark.fixture import BenchmarkFixture
 
